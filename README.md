@@ -1,2 +1,2 @@
 # tvnpreg
-Time-varying nonparametric regression
+Nonparametric estimation of time-varying regression functions
